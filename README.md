@@ -1,1 +1,1 @@
-<html><p>hi</p></html>
+<html><body style="background-color:powderblue;"><p>hi</p></body></html>
