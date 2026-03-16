@@ -1,2 +1,1 @@
-# railbug.github.io
-I blog about random places in the world.
+<html><p>hi</p></html>
